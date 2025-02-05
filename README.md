@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @JuliusCosta
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning pain
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me dont
+- 👀 I’m interested in game dev and other fun applications
 
 <!---
 JuliusCosta/JuliusCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
